@@ -1,0 +1,19 @@
+.title{
+    color:#333;
+    text-align:center;
+font-style: bold;
+border: solid rgb(97, 133, 212) 2px;
+border-color:rgb(0, 128, 0);}
+  
+
+ 
+.content{
+    margin-right: 30px;
+}
+.friend-list{
+    height:400px;
+    width:300px;
+    flex:center;
+    border: solid rgb(212, 97, 122) 2px;
+    ;
+}

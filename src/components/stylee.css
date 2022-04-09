@@ -1,0 +1,72 @@
+.wrapper{
+display: flex;
+flex-direction: row;
+ justify-content: space-between;
+ width: 1000px;
+ height:800px;
+ margin:20px 40px 60px;
+border:solid rgb(22, 19, 1) 3px;}
+
+.home-page { 
+    display: flex;
+    flex-direction: column; 
+    width: 500px;
+    height: 790px;
+    margin: 5px;
+    margin-bottom: 5px;
+    border:solid rgb(255, 165, 0);
+  } 
+  
+  .employee-page {
+    display: flex;
+     flex-direction: column;
+     width:500px;
+    height: 790px; 
+      border:solid rgba(255, 0, 76, 0.541);
+  }
+  
+  .header1{ 
+    text-align:center; 
+    border: solid rgb(97, 133, 212) 2px;
+   background-color: rgb(246, 249, 250);}
+
+ 
+  .header2 {
+    text-align:center;
+   border: solid rgb(97, 133, 212) 2px;
+  background-color: rgb(246, 249, 250);}
+  .search { 
+    border: solid rgb(0, 128, 0) 2px;
+    
+    
+
+
+  }
+   
+  
+  .emp-item {
+    display: flex;
+    margin: 5px 5px; 
+    border:solid rgb(194, 24, 24) 2px ;
+  
+  }
+  
+  
+  .name-list {
+    margin: 1px 40px;
+  }
+  .emp-container {
+    display: flex;
+    flex-direction: column;
+    margin:1px ;
+  }
+    .empDetailList {
+      margin: 0px 20px;
+    }
+    .emp-detail {
+      margin: 0px 20px;
+      box-shadow: 1px 1px 1px 1px #c5c4c4;
+      width: 480px;
+      height: 700px;} 
+     
+   
